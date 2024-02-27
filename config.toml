@@ -1,6 +1,4 @@
-# do NOT include a trailing slash on the base URL
 base_url = "https://hernangonzalez.github.io/rustar-resources"
-
 title = "RustAR Resources"
 description = "Please find here the content used in presentations during our meet-ups."
 theme = "anemone"
@@ -8,14 +6,8 @@ default_language = "en"
 
 [markdown]
 highlight_code = true
-highlight_theme = "css"
 render_emoji = true
-external_links_target_blank = true # rel="noopener"
-external_links_no_follow = false   # rel="nofollow"
-external_links_no_referrer = false # rel="noreferrer"
-smart_punctuation = false          # `...` to `…`, `"quote"` to `“curly”` etc
 
-# Any Extra language you do not use, delete or comment out the extra language sections:
 [extra]
 list_pages = true
 display_author = false
