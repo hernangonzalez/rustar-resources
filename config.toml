@@ -1,5 +1,5 @@
 # do NOT include a trailing slash on the base URL
-base_url = "hernangonzalez.github.io/rustar-resources"
+base_url = "https://hernangonzalez.github.io/rustar-resources"
 
 title = "RustAR Resources"
 description = "Please find here the content used in presentations during our meet-ups."
