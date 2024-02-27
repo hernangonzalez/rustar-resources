@@ -1,7 +1,7 @@
 base_url = "https://hernangonzalez.github.io/rustar-resources"
 title = "RustAR Resources"
 description = "Please find here the content used in presentations during our meet-ups."
-theme = "anemone"
+theme = "terminimal"
 default_language = "en"
 
 [markdown]
@@ -9,6 +9,7 @@ highlight_code = true
 render_emoji = true
 
 [extra]
-list_pages = true
-display_author = false
-toc = true
+show_only_description = true
+accent_color = "orange"
+logo_text = "Rust Argentina - Resources"
+#logo_home_link = "https:// " # Go to main site?
