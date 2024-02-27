@@ -1,0 +1,7 @@
+.DS_Store
+public
+build
+static
+storage
+node_modules
+package-lock.json
